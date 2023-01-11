@@ -1,16 +1,25 @@
-### Hi there 👋
+# 👻 It Me
 
-<!--
-**jaxdesmarais/jaxdesmarais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```swift
+let name = "Jax DesMarais-Leder"
+let title = "Senior iOS Engineer"
+let pronouns = "he/him/his"
+let location = "Remote in Oak Park, IL, USA"
+let interests = [
+    "swimming",
+    "University of Michigan sports",
+    "home renovations",
+    "coffee",
+    "tattoos"
+]
+```
 
-Here are some ideas to get you started:
+## Want to know more?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Before moving into tech, I worked for a decade in the specialty coffee industry as a trainer and educator. I also competed on a national level and eventually moved to coaching where I helped coach both national and world barista champions. If you're traveling, I can likely give you recommendations on coffee shops. Education wise, I went to University of Michigan on a swimming scholarship (500 and 1,650 freestyle were my events), but eventually dropped out of school for personal reasons (story for another time).
+
+My wife and I own a 1920s dutch colonial revival home in Oak Park, IL that we are lovingly renovating/restoring mostly ourselves. We have a little one (4 in January) as well as 2 dogs (mutt and a llasa apso) and 3 cats. When we aren't working on our house, we can be found gardening, walking around Oak Park admiring the Frank Lloyd Wright houses, visiting the Shedd Aqaurium, hanging out with friends, or traveling.
+
+## When I Work
+
+Typically 8am - 4pm Central. I tend to take lunch right around noon and work out from 4-5 after work. I tend to do my deepest work in the morning and enjoy starting with a high level of focus right after our daughter goes to school.
