@@ -2,10 +2,10 @@
 
 ```swift
 let name = "Jax DesMarais-Leder"
-let title = "Senior iOS Engineer"
+var title = "Senior iOS Engineer"
 let pronouns = "he/him/his"
-let location = "Remote in Oak Park, IL, USA"
-let interests = [
+var location = "Remote in Oak Park, IL, USA"
+var interests = [
     "swimming",
     "University of Michigan sports",
     "home renovations",
