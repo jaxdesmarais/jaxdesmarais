@@ -6,7 +6,7 @@ let pronouns = "he/him/his"
 
 var title = "Tech Lead / Staff iOS Engineer"
 var location = "Remote in Oak Park, IL, USA"
-var interests = ["swimming", "University of Michigan sports", "home renovations", "coffee", "tattoos"]
+var interests = ["swimming", "University of Michigan and Detroit sports", "home renovations", "coffee", "tattoos"]
 ```
 
 ## Want to know more?
