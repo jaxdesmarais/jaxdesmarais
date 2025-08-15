@@ -13,7 +13,7 @@ var interests = ["swimming", "University of Michigan and Detroit sports", "home 
 
 Before moving into tech, I worked for a decade in the specialty coffee industry as a trainer and educator. I went to University of Michigan on a swimming scholarship (500 and 1,650 freestyle were my events), but eventually dropped out of school for personal reasons. I love mentoring other developers from non-traditional backgrounds as I do not come from a CS background and am self taught in mobile development. While I mostly focus on iOS (Swift/Objective-C) I have also built a number of features on Android (Kotlin/Java).
 
-My wife and I own a 1920s dutch colonial revival home in Oak Park, IL that we are lovingly renovating/restoring mostly ourselves. We have a little one (6) as well as 1 dog (Sadie) and 3 cats (Wednesday, Pugsley, and Bonnie). When we aren't working on our house, we can be found gardening, walking around Oak Park admiring the Frank Lloyd Wright houses, visiting museums, hanging out with friends, at Disneyland (way too often), or traveling.
+My wife and I own a 1920s dutch colonial revival home in Oak Park, IL that we are lovingly renovating/restoring mostly ourselves. We have a little one (6) as well as 1 dog (Sadie) and 2 cats (Wednesday and Pugsley). When we aren't working on our house, we can be found gardening, walking around Oak Park admiring the Frank Lloyd Wright houses, visiting museums, hanging out with friends, at Disneyland (way too often), or traveling.
 
 ## When and How I Work
 
