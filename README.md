@@ -27,5 +27,5 @@ This is a living doc and as my management style is developed I will update this 
 1. Relator: I enjoy close relationships with others. You find deep satisfaction in working hard to achieve a goal.
 2. Discipline: You enjoy routine and structure. Your world is best described by the order you create.
 3. Strategic: You create alternative ways to proceed. Faced with any given scenario, you can quickly spot the relevant patterns and issues.
-4. Consistency: You are keenly aware of the need to treat people the same. You crave stable routines and clear rules and procedures that everyone can folow.
+4. Consistency: You are keenly aware of the need to treat people the same. You crave stable routines and clear rules and procedures that everyone can follow.
 5. Achiever: You work hard and possess a great deal of stamina. You take immense satisfaction in being busy and productive.
